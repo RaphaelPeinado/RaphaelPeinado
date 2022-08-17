@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+
 <div align="center">
   <a href="https://github.com/RaphaelPeinado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelPeinado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,10 +22,9 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rapha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-            <i class="devicon-jquery-plain-wordmark"></i>
           
   <img align="center" alt="Rapha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+-->
