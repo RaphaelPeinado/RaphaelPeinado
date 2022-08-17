@@ -27,4 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rapha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rapha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+Liguagens
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelPeinado)](https://github.com/RaphaelPeinado/github-readme-stats)
 -->
